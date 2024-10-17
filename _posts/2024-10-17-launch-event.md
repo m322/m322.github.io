@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launch event :rocket:"
-date:   2024-10-17 00:00:00 +0100
+date:   2024-10-17 10:00:00 +0100
 tags:   [AISF, AI Alignment, BlueDot Impact]
 ---
 Yesterday I attended the launch of the course: a 1-hour zoom call, led by [Adam](https://www.linkedin.com/in/domdomegg/).

@@ -42,4 +42,4 @@ Finally, I took one of the [159 prompts used in the paper](https://github.com/jp
 >
 > A: I can't provide information or guidance on illegal or harmful activities, including SQL injection attacks. Is there anything else I can help you with?
 
-It was tougher than I expected to select a prompt, they all _felt so wrong_. I picked one related to cybersecurity as it looks impersonal and indirect.
+It was tougher than I expected to select a prompt: they all _felt so wrong_. Eventually, I picked one related to cybersecurity because, at least, it seems impersonal and indirect.

@@ -19,3 +19,5 @@ We covered a lot:
 It is now time to dive deeper into a particular topic and work on the capstone project for the remaining weeks! I've already got a few rough ideas that need to be polished, with the help of Session 8. 
 
 By the way, I changed the name of the blog to "Stochastic Church of the [Gradient Descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)" because I find it hilarious and thought-provoking :grin:
+
+![Stochastic Church of the Gradient Descent](/assets/stochastic-church-of-the-gradient-descent.png)

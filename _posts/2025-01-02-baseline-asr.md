@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Baseline ASR of the llama3.2 models"
+title:  "Baseline ASR on the llama3.2 models"
 date:   2025-01-02 10:00:00 +0100
 tags:   [AISF, Best-of-N Jailbreaking]
 ---
-Before starting with the augmented prompts, I've measured the baseline ASR (Attack Success Rate) of the `llama3.2` family (`llama3.2:1b` and `llama3.2:3b` models).
+Before starting with the augmented prompts, I've measured the baseline ASR (Attack Success Rate) on the `llama3.2` family (`llama3.2:1b` and `llama3.2:3b` models).
 
 [ASR is a popular metric in red teaming](https://medium.com/@hke22/language-models-red-teaming-attack-and-defense-evaluation-ea979a9fc1c5#:~:text=Attack%20Success%20Rate%20(ASR)&text=It%20has%20two%20main%20definitions,repeatedly%20sampled%20for%20its%20calculation.) and is defined as the number of queries that cause successful attacks divided by the number of queries in the dataset.
 
-As a reference for my replication experiment, the original [Best-of-N Jailbreaking paper](https://arxiv.org/abs/2412.03556) reports the following ASRs for Claude 3.5 Sonnet:
+As a reference for my replication experiment, the original [Best-of-N Jailbreaking paper](https://arxiv.org/abs/2412.03556) reports the following ASRs on Claude 3.5 Sonnet:
 
 | Scenario | ASR |
 | -------- | --- |

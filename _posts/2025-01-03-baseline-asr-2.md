@@ -24,6 +24,8 @@ The result is 2/159 = 1.3%, which is better than the `llama3.2` and worse than C
 | BoN with 100 augmented samples    | 41%  | - | - | - |
 | BoN with 10,000 augmented samples | 78%  | - | - | - |
 
+All generations used `ollama`'s [API default setting](https://github.com/ollama/ollama/blob/main/docs/modelfile.md#valid-parameters-and-values) of 0.8 for the temperature.
+
 This is the detailed comparison of the three models that I have tested so far:
 
 | ID | Prompt | `llama3.2:1b` | `llama3.2:3b` | `gemma2:2b` |

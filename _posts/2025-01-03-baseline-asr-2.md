@@ -14,7 +14,7 @@ I'm honestly baffled by that since its size is less than `llama3.2:3b`'s, which 
 | llama3.2:latest | 2.02 GB | 3.2B | Q4_K_M |
 | llama3.2:1b     | 1.32 GB | 1.2B | Q8_0   |
 
-Therefore, I will not include `gemma2:2b` in my project but I've calculated the baseline ASR anyway, just to have an additional date point.
+Therefore, I will not include `gemma2:2b` in my project but I've calculated the baseline ASR anyway, just to have an additional data point.
 
 The result is 2/159 = 1.3%, which is better than the `llama3.2` and worse than Claude 3.5 Sonnet:
 

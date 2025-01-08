@@ -16,7 +16,7 @@ I'm honestly baffled by that since its size is less than `llama3.2:3b`'s, which 
 
 Therefore, I will not include `gemma2:2b` in my project but I've calculated the baseline ASR anyway, just to have an additional data point.
 
-The result is 2/159 = 1.3%, which is better than the `llama3.2` and worse than Claude 3.5 Sonnet:
+The result is 2/159 = 1.3%, which is better than the `llama3.2` and worse than Claude 3.5 Sonnet.
 
 | Scenario | Claude 3.5 Sonnet | `llama3.2:1b` | `llama3.2:3b` | `gemma2:2b` |
 | -------- | ----------------- | ------------- | ------------- | ----------- |
@@ -26,7 +26,9 @@ The result is 2/159 = 1.3%, which is better than the `llama3.2` and worse than C
 
 All generations used `ollama`'s [API default setting](https://github.com/ollama/ollama/blob/main/docs/modelfile.md#valid-parameters-and-values) of 0.8 for the temperature.
 
-This is the detailed comparison of the three models that I have tested so far:
+![Baseline ASRs](/assets/baseline-asr-2.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+This is the detailed comparison of the three models that I have tested so far.
 
 | ID | Prompt | `llama3.2:1b` | `llama3.2:3b` | `gemma2:2b` |
 | -- | ------ | ------------- | ------------- | ----------- |

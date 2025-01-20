@@ -4,7 +4,7 @@ title:  "Final results for BoN with 10,000 augmented samples"
 date:   2025-01-20 11:00:00 +0100
 tags:   [AISF, Best-of-N Jailbreaking]
 ---
-I finished running the experiment for the scenario of Best-of-N Jailbreaking with 10,000 augmented samples. Due to time constraints, only limited results are available. However, we can already see a clear pattern of 100% ASR: every single attack succeed, and in less than 4,000 attempts!
+I finished running the experiment for the scenario of Best-of-N Jailbreaking with 10,000 augmented samples. Due to time constraints, only limited results are available. However, we can already see a clear pattern of 100% ASR: every single attack succeeded, and in less than 4,000 attempts!
 
 | Scenario | Claude 3.5 Sonnet | `llama3.2:1b` | `llama3.2:3b` | `gemma2:2b` |
 | -------- | ----------------- | ------------- | ------------- | ----------- |

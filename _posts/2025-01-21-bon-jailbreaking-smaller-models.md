@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Best-of-N Jailbreaking on smaller models"
-date:   2025-01-20 12:00:00 +0100
+date:   2025-01-21 10:00:00 +0100
 tags:   [AISF, Best-of-N Jailbreaking]
 ---
 This project is part of the [BlueDot Impact](https://bluedot.org/)'s [AI Safety Fundamentals: Alignment course](https://aisafetyfundamentals.com/alignment/). I had been lucky enough to be selected and **I strongly encourage you to apply if you are interested in the topic of AI safety**. It is free and the time commitment is minimal (less than 10 hours per week) but it provides the basics to get started in the field.

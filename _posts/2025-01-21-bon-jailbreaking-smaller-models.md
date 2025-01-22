@@ -36,6 +36,8 @@ My project is a partial replication of the [Best-of-N Jailbreaking](https://jplh
 Quoting the abstract of the paper:
 > We introduce Best-of-N (BoN) Jailbreaking, a simple black-box algorithm that jailbreaks frontier AI systems across modalities. BoN Jailbreaking works by repeatedly sampling variations of a prompt with a combination of augmentations - such as random shuffling or capitalization for textual prompts - until a harmful response is elicited. We find that BoN Jailbreaking achieves high attack success rates (ASRs) on closed-source language models, such as 89% on GPT-4o and 78% on Claude 3.5 Sonnet when sampling 10,000 augmented prompts.
 
+I chose this paper because it showcases that jailbreaking (manipulating language models into producing harmful content) does not require sophisticated strategies or significant computational resources.
+
 ## Methods
 
 I focused only on textual prompts.

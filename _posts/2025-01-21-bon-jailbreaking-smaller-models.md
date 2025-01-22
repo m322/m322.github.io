@@ -16,7 +16,7 @@ I partially replicated the [Best-of-N Jailbreaking](https://jplhughes.github.io/
 
 Smaller models match or exceed the performance of frontier models for short attacks (up to 100 attempts).
 
-However, for the longer attack (up to 10,000 attempts) there are strong indications of an [ASR](https://medium.com/@hke22/language-models-red-teaming-attack-and-defense-evaluation-ea979a9fc1c5#:~:text=Attack%20Success%20Rate%20(ASR)&text=It%20has%20two%20main%20definitions,repeatedly%20sampled%20for%20its%20calculation.) of 100%.
+However, for the longer attack (up to 10,000 attempts) there are strong indications of an [Attack Success Rate (ASR)](https://medium.com/@hke22/language-models-red-teaming-attack-and-defense-evaluation-ea979a9fc1c5#:~:text=Attack%20Success%20Rate%20(ASR)&text=It%20has%20two%20main%20definitions,repeatedly%20sampled%20for%20its%20calculation.) of 100%.
 
 ## Introduction
 
